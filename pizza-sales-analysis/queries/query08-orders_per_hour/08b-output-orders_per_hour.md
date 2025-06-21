@@ -3,7 +3,7 @@
 
 
 
-📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query08-Orders_per_hour.sql)
+📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query08-orders_per_hour/08a-query-Orders_per_hour.sql)
 
 
 📊OUTPUT: NUMBER OF ORDERS PER HOUR

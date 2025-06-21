@@ -5,7 +5,7 @@
 
 
 
-📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query04-Best_selling_size.sqlhttps://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query04-Best_selling_size.sql)
+📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query04-best_selling_size/04a-query-Best_selling_size.sql)
 
 
 📊OUTPUT: HIGHLY ORDERED PIZZA SIZE

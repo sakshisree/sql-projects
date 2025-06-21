@@ -4,7 +4,7 @@
 
 
 
-📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query06-Top5_pizza_types.sql)
+📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query06-top5-pizza_types/06a-query-Top5_pizza_types.sql)
 
 
 📊OUTPUT: TOP 5 HIGHLY ORDERED PIZZA TYPES WITH THEIR TOTAL QUANTITIES ORDERED

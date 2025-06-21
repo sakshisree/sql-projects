@@ -3,7 +3,7 @@
 
 
 
-📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query09-Pizzas_distribution_by_category.sql)
+📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query09-pizzas_distributation_by_category/09a-query-Pizzas_distribution_by_category.sql)
 
 
 📊OUTPUT: NUMBER OF PIZZA TYPES IN EACH CATEGORY

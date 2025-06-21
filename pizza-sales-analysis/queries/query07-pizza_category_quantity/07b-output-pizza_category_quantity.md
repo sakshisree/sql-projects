@@ -3,7 +3,7 @@
 
 
 
-📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query07-Pizza_category_quantity.sql)
+📂[VIEW SQL QUERY](https://github.com/sakshisree/sql-projects/blob/main/pizza-sales-analysis/queries/query07-pizza_category_quantity/07a-query-Pizza_category_quantity.sql)
 
 
 📊OUTPUT: TOATAL QUANTY OF EACH PIZZA CATEGORY ORDERED
