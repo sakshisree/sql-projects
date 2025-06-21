@@ -1,0 +1,10 @@
+-- RETRIVE THE TOTAL NUMBER OF ORDERS PLACED.
+
+
+SELECT 
+    COUNT(order_id) AS TOTAL_ORDERS
+FROM
+    orders;
+    
+    
+    
